@@ -17,6 +17,8 @@
             android:layout_height="50dp"
             android:layout_gravity="center_vertical|left"
             android:background="@drawable/rotated_burger_menu" />
+
+        <
     </FrameLayout>
 
     <LinearLayout
