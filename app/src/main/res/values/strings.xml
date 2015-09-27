@@ -3,4 +3,9 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+
+    <string name="drawer_opened">Pick an option</string>
+    <string name="drawer_closed">Explore</string>
+
 </resources>
